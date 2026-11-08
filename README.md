@@ -55,5 +55,5 @@ I build full-stack applications end to end: backend APIs, frontend interfaces, a
 
 ## Contact
 
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-handle
+- Email: nitsshrestha9510@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ni-shrestha/
